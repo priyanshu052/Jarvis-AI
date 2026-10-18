@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+.env
+.env.*
+!.env.example
+
+config.json
+memory.json
+data/news_history.json
+temp_voice.wav
+voice_samples/
+gui/jarvis_bg.gif

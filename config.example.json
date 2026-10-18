@@ -1,0 +1,6 @@
+{
+  "weather_api_key": "",
+  "newsdata_api_key": "",
+  "gemini_api_key": "",
+  "default_city": "Delhi"
+}
